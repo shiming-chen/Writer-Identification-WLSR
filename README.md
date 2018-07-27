@@ -4,8 +4,8 @@ AusAI 2018
 # Overview 
 - [Dependences](#dependences)
 - [Line_Segmentation](#Line_Segmentation)
-- [Feature_Extraction](##Feature_Extraction)
-- [Contact](##Contact)
+- [Feature_Extraction](#Feature_Extraction)
+- [Contact](#Contact)
 
 The codes of this repository are for papper "Semi-Supervised Feature Learning for Off-Line Writer Identification"
 
@@ -21,7 +21,7 @@ The codes of this repository are for papper "Semi-Supervised Feature Learning fo
 # Line_Segmentation
 At first, you segment the document to lines with statistical line segmentation. You can refer to guideline (https://github.com/KiM55/DLS-CNN/).
 
-# Feature_Extraction
+# Feature_Extraction 
 
 ### Train
 1. Make a dir called `data` by typing `mkdir ./data`.
