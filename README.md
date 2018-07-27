@@ -1,6 +1,8 @@
 # Semi-Supervised-Learning-for-Writer-Identification
 AusAI 2018
 
+![](https://github.com/KiM55/Semi-Supervised-Learning-for-Writer-Identification/blob/master/Image/pipeline.png)
+
 # Overview 
 - [Dependences](#dependences)
 - [Line_Segmentation](#line_segmentation)
