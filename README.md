@@ -3,9 +3,9 @@ AusAI 2018
 
 # Overview 
 - [Dependences](#dependences)
-- [Line_Segmentation](#Line_Segmentation)
-- [Feature_Extraction](#Feature_Extraction)
-- [Contact](#Contact)
+- [Line_Segmentation](#line_segmentation)
+- [Feature_Extraction](#feature_extraction)
+- [Contact](#contact)
 
 The codes of this repository are for papper "Semi-Supervised Feature Learning for Off-Line Writer Identification"
 
