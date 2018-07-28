@@ -1,4 +1,4 @@
-# Semi-Supervised-Learning-for-Writer-Identification
+# Writer-Identification_WLSR
 AusAI 2018
 
 ![](https://github.com/KiM55/Semi-Supervised-Learning-for-Writer-Identification/blob/master/Image/pipeline_new.jpg)
