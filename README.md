@@ -30,7 +30,7 @@ At first, you segment the document to lines with statistical line segmentation. 
 
 2. Download [ResNet-50 model](http://www.vlfeat.org/matconvnet/models/imagenet-resnet-50-dag.mat) pretrained on Imagenet. Put it in the `data` dir. 
 
-3. Add your dataset path into `prepare_data.m` and run it. Make sure the code outputs the right image path.
+3. Add your original dataset path and extra dataset path into `prepare_data.m` and `prepare_extra_data.m` and run it. Make sure the code outputs the right image path.
 
 4.  Run `train_id_net_res_market_wlsr.m` for training the proposed method.
 
