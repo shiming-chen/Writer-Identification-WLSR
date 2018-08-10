@@ -9,7 +9,7 @@ AusAI 2018
 - [Feature_Extraction](#feature_extraction)
 - [Contact](#contact)
 
-The codes of this repository are for papper "Semi-Supervised Feature Learning for Off-Line Writer Identification"
+The codes of this repository are for papper ["Semi-Supervised Feature Learning for Off-Line Writer Identification"](https://arxiv.org/abs/1807.05490)
 
 # Dependences 
 - Matlab, Matconvnet, Opencv, NVIDIA GPU
