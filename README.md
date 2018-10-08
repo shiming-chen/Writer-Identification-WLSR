@@ -1,7 +1,7 @@
 # Writer-Identification_WLSR
-AI 2018
+Information Sciences
 
-![](https://github.com/KiM55/Semi-Supervised-Learning-for-Writer-Identification/blob/master/Image/pipeline_new.jpg)
+![](https://github.com/KiM55/Writer-Identification-WLSR/blob/master/Image/fig1.tif)
 
 # Overview 
 - [Dependences](#dependences)
