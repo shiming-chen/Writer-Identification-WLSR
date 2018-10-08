@@ -1,7 +1,7 @@
 # Writer-Identification_WLSR
 Information Sciences
 
-![](https://github.com/KiM55/Writer-Identification-WLSR/blob/master/Image/fig1.tif)
+![](https://github.com/KiM55/Writer-Identification-WLSR/blob/master/Image/fig1.jpg)
 
 # Overview 
 - [Dependences](#dependences)
