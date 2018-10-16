@@ -42,7 +42,7 @@ Run `test/feature_extraction.m` to extract the features of images in the gallery
 Run `evaluation/evaluation.m` for evaluation.
 
 # Contact
-If you run into any problems with this code, please submit a bug report on the Github site of the project. For another inquries pleace contact with me: gchenshiming@gmail.com or g_shmchen@163.com
+If you run into any problems with this code, please submit a bug report on the Github site of the project. For another inquries please contact with me: gchenshiming@gmail.com or g_shmchen@163.com
 
 
 
