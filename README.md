@@ -61,7 +61,7 @@ If this work is helpful for you, please cite my paper.
 ```
 @article{Chen2019Semi,  
   title={Semi-Supervised Feature Learning for Improving Writer Identification},    
-  author={Chen, Shiming and Wang, Yisong and Lin, Chin-Teng Lin and Ding, Weiping Ding and Cao, Zehong},    
+  author={Chen, Shiming and Wang, Yisong and Lin, Chin-Teng Lin and Ding, Weiping and Cao, Zehong},    
   journal={Information Sciences}, 
   volume={482},
   pages={156-170},
