@@ -1,9 +1,10 @@
 # Writer-Identification_WLSR
-Information Sciences
+
 
 ![](https://github.com/KiM55/Writer-Identification-WLSR/blob/master/Image/fig1.jpg)
 
 # Overview 
+- [Citation](#citation)
 - [Dependences](#dependences)
 - [Line_Segmentation](#line_segmentation)
 - [Feature_Extraction](#feature_extraction)
@@ -11,7 +12,22 @@ Information Sciences
 - [Contact](#contact)
 
 
-The codes of this repository are for papper ["Semi-Supervised Feature Learning for Off-Line Writer Identification"](https://arxiv.org/abs/1807.05490)
+Codes of this repository are for papper entitled with ["Semi-Supervised Feature Learning for Improving Writer Identification"](https://www.sciencedirect.com/science/article/pii/S0020025519300283?via%3Dihub), which had been published on Information Sciences.
+
+
+# Citation
+If this work is helpful for you, please cite my paper.
+
+@article{Chen2019Semi,  
+  title={Semi-Supervised Feature Learning for Improving Writer Identification},    
+  author={Chen, Shiming and Wang, Yisong and Lin, Chin-Teng Lin and Ding, Weiping Ding and Cao, Zehong},    
+  journal={Information Sciences}, 
+  volume={482},
+  pages={156-170},
+  year={2019}    
+}
+
+
 
 # Dependences 
 - Matlab, Matconvnet, Opencv, NVIDIA GPU
